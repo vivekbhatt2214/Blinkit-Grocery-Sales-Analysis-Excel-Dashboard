@@ -146,11 +146,11 @@ The dataset contains grocery sales records from Blinkit and includes:
 
 ### Analysis 3
 
-![Analysis 3](Analysis(3).png)
+![Analysis 3](B%20Analysis(3).png)
 
 ### Analysis 4
 
-![Analysis 4](Analysis(4).png)
+![Analysis 4](B%20Analysis(4).png)
 
 ---
 

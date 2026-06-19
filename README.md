@@ -130,7 +130,7 @@ The dataset contains grocery sales records from Blinkit and includes:
 
 ## Main Dashboard
 
-![Blinkit Dashboard](Blinkit%20Dashboard.png)
+![Blinkit Dashboard](Bt%20Dashboard.png)
 
 ---
 
